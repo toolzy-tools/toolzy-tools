@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toolzy-tools.github.io/toolzy-tools/sitemap.xml
